@@ -1,0 +1,238 @@
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+1	2021.11.25	21:22:31	56691	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+2	2021.11.25	21:31:49	57761	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+3	2021.11.25	21:44:00	56730	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1500	1000
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+4	2021.11.25	21:46:08	57577	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+5	2021.11.25	22:07:57	57132	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+6	2021.11.25	23:59:36	53913	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+7	2021.11.26	01:33:04	56802	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+8	2021.11.26	02:19:50	56613	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+9	2021.11.26	02:36:40	57546	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+10	2021.11.26	04:46:58	56513	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+11	2021.11.26	05:05:28	47562	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+12	2021.11.26	05:10:15	54073	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+13	2021.11.26	05:41:48	51904	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+15	2021.11.26	06:33:40	56373	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15	true	1680	1050
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+18	2021.11.26	16:02:29	56229	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+19	2021.11.26	17:30:35	55715	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+20	2021.11.26	18:54:15	57053	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+21	2021.11.26	19:39:56	53116	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+22	2021.11.26	20:55:57	57009	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+23	2021.11.26	20:59:19	57366	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15	true	1612	921
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+24	2021.11.26	21:48:32	56617	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+25	2021.11.26	22:09:44	57395	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15	true	1728	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+27	2021.11.26	23:24:52	57048	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+28	2021.11.26	23:42:51	57651	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+29	2021.11.26	23:51:26	56498	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1707	960
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+30	2021.11.27	00:10:27	53470	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+32	2021.11.27	00:28:01	56768	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+33	2021.11.27	01:03:58	57769	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15	true	1366	1024
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+34	2021.11.27	01:13:54	56346	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+36	2021.11.27	01:58:58	57444	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+37	2021.11.27	02:27:28	46556	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+38	2021.11.27	03:40:14	56610	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1792	1120
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+39	2021.11.27	04:00:25	53453	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+40	2021.11.27	05:24:07	56840	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+41	2021.11.27	05:40:17	56949	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+42	2021.11.27	05:56:01	53233	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+43	2021.11.27	06:09:05	50257	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+44	2021.11.27	06:17:44	56268	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15	true	1792	1120
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+45	2021.11.27	06:25:58	57758	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+46	2021.11.27	06:36:06	56482	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+47	2021.11.27	06:36:50	56477	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+48	2021.11.27	07:44:48	56726	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+49	2021.11.27	08:10:01	56244	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+50	2021.11.27	08:14:35	57472	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+51	2021.11.27	08:50:42	56771	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+52	2021.11.27	09:37:22	54505	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+53	2021.11.27	11:16:44	56423	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1512	945
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+54	2021.11.27	17:54:39	51888	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+55	2021.11.27	19:01:55	54039	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+56	2021.11.27	19:20:21	54733	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+58	2021.11.27	20:04:25	56897	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15	true	1792	1120
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+59	2021.11.27	20:46:04	57310	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+60	2021.11.27	21:11:49	56899	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+61	2021.11.27	21:24:33	56161	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+62	2021.11.27	21:38:32	57777	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+63	2021.11.27	22:05:33	56504	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+64	2021.11.27	22:12:00	56288	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	810
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+65	2021.11.27	22:20:30	57308	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+66	2021.11.27	23:00:34	54142	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+68	2021.11.27	23:18:36	56846	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+69	2021.11.27	23:18:39	56576	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+67	2021.11.27	23:17:25	57768	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+70	2021.11.28	00:39:30	57779	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+71	2021.11.28	01:09:03	55754	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+72	2021.11.28	01:44:49	51452	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+73	2021.11.28	01:46:26	56440	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+74	2021.11.28	01:49:41	54288	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+75	2021.11.28	02:04:31	56388	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1600	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+76	2021.11.28	01:59:23	53756	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+77	2021.11.28	02:57:47	57696	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+78	2021.11.28	03:04:06	57316	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+79	2021.11.28	03:29:21	56572	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+80	2021.11.28	03:37:17	55119	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+81	2021.11.28	03:48:00	57241	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+82	2021.11.28	04:14:01	56246	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1366	768
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+83	2021.11.28	04:26:38	55751	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+84	2021.11.28	05:03:12	54720	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+86	2021.11.28	05:56:28	56905	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+87	2021.11.28	06:09:40	56355	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+89	2021.11.28	07:12:06	57754	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+91	2021.11.28	16:12:54	54934	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+92	2021.11.28	21:09:39	54209	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+93	2021.11.28	21:10:49	56621	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+94	2021.11.28	23:00:33	54761	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+95	2021.11.29	01:18:55	51397	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+96	2021.11.29	08:39:58	56297	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+97	2021.11.29	11:27:56	54881	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+100	2021.11.29	21:11:19	56844	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	2560	1440
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+101	2021.11.29	22:45:59	57770	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+102	2021.11.29	23:15:00	56271	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+103	2021.11.29	23:30:11	50133	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.60	true	1707	960
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+104	2021.11.30	00:13:04	57760	Mozilla/5.0 (X11; CrOS x86_64 14150.87.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.124 Safari/537.36	true	1366	768
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+105	2021.11.30	01:38:02	56668	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+107	2021.11.30	06:30:17	56446	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+108	2021.11.30	07:29:34	53659	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+109	2021.11.30	08:48:42	57767	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	2560	1440
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+110	2021.11.30	17:36:01	48472	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+112	2021.11.30	22:34:15	52771	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+113	2021.12.01	01:29:33	57364	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1920	1080
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+114	2021.12.01	02:19:46	55330	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+115	2021.12.01	04:01:05	50045	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+116	2021.12.01	04:03:52	53874	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+117	2021.12.01	07:38:43	56643	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+119	2021.12.01	08:40:50	57692	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+120	2021.12.01	09:39:41	46305	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+122	2021.12.01	18:13:55	55706	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+121	2021.12.01	18:04:09	57155	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+124	2021.12.01	22:22:42	53546	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1280	720
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+126	2021.12.01	22:50:32	57317	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+127	2021.12.01	23:42:13	57764	Mozilla/5.0 (X11; CrOS x86_64 14150.87.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.124 Safari/537.36	true	1366	768
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+130	2021.12.02	02:22:30	57773	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36	true	1280	800
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+131	2021.12.02	03:21:59	57529	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15	true	1512	945
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+132	2021.12.02	04:18:17	50975	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+133	2021.12.02	04:49:57	56920	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+134	2021.12.02	05:31:10	57813	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+135	2021.12.02	06:29:33	53429	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36	true	1440	900
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+136	2021.12.02	07:27:09	55774	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1500	1000
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+137	2021.12.02	07:38:38	57633	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1536	864
+subjNum	startDate	startTime	id	userAgent	inView	viewportW	viewportH
+138	2021.12.03	07:36:53	55658	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36	true	1440	900

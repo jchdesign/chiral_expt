@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang='en-us' translate='no'>
+
+<head>
+    <meta charset='utf-8'>
+    <title>UCLA Experiment</title>
+    <link rel='icon' href='media/favicon.ico'>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap' />
+    <link rel='stylesheet' href='css/style.css' />
+</head>
+<body>
+    <div class='full-screen-button' onclick='MAXIMIZE_WINDOW()'>CLICK TO MAXIMIZE WINDOW</div>
+
+    <!-- INSTRUCTIONS CHIRAL -->
+    <div class='content-box fixed-box' id='instr-box-chiral'>
+        <p class='instructions' id='instr-text-chiral'></p>
+        <img id='instr-img' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive your credit.'></img>
+        <div class='img-box'>
+            <img id='example-left' class='test-img img-left flip' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive your credit.'></img>
+            <img id='example-right' class='test-img img-right' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive your credit.'></img>
+        </div>
+        <figcaption id='caption-left'>MIRRORED</figcaption>
+        <figcaption id='caption-right'>ORIGINAL</figcaption>
+        <button class='button' id='next-button-chiral' onclick='chiral_instr.next()'>NEXT</button>
+
+        <!-- INFORMED CONSENT FORM -->
+        <div class='content-box' id='consent-box'>
+            <div class='consent-instr'>To conduct this experiment, we need to include this information sheet:</div>
+            <div class='form-area' style='text-align: center'>
+                <strong>INFORMATION SHEET</strong><br /><br />
+                You are invited to participate in a research study on human cognition, conducted by Hongjing Lu, PhD, of the Dept. of Psychology at UCLA. You were selected as a possible participant in this study because you have normal or corrected vision, and are 18 years of age or older. For scientific reasons, this consent form does not include complete information about the study hypotheses and the research questions being tested. You will be fully debriefed following your participation in the research.<br /><br />
+                <p class = 'bold'>Purpose of Study</p>
+                The purpose of the study is to understand human perception and cognition.<br /><br />
+                <p class = 'bold'>Procedures Involved in Study</p>
+                If you agree to participate, you may be presented with images, videos, or sounds on a computer screen, and answer simple questions and/or perform simple tasks by interacting with a website via a keyboard or a computer mouse. You may also be asked to fill out some questionnaires about your personality or experience, which will take at max 15 minutes. Your responses will be recorded by the computer and will not be identified with you in any way. You may receive a demographic questionnaire to collect information of your age, gender, ethnicity, and language. The session will take at most 60 minutes.<br /><br />
+                <p class = 'bold'>Potential Risks and Discomforts</p>
+                There is no known risk/discomfort in this study. If you experience any discomfort during the course of the experiment, you can stop at any time and notify the experimenter.<br /><br />
+                <p class = 'bold'>Potential Benefits to Subject</p>
+                There are no direct benefits from participating in this study.<br /><br />
+                <p class = 'bold'>Potential Benefits to Society</p>
+                The findings of the study will help improve procedures for making important decisions to avoid unwanted biases. For example, individual’s cognitive tendencies may influence their decision making on finance, relationships, or diets, and their behaviors in different contexts like internet versus in-person interactions. By understanding how people differ from each other, we will be able to design better environments for people to make rational and just decisions in different domains in life.<br /><br />
+                <p class = 'bold'>Payment for Participation</p>
+                You would receive 0.5 hour of credit every 30 minute for your psychology class if you signed up for the study through the UCLA Psychology Department Subject Pool; otherwise, you would receive the payment in the rate of $10 per hour for your participation.<br /><br />
+                <p class = 'bold'>Confidentiality</p>
+                Your identity in this study will be treated as confidential. The results of the study, including laboratory or any other data, may be published for scientific purposes but will not include any identifiable references to you. The researchers will do their best to make sure that your private information is kept confidential. Information about you will be handled as confidentially as possible, but participating in research may involve a loss of privacy and the potential for a breach in confidentiality. Study data will be physically and electronically secured.  As with any use of electronic means to store data, there is a risk of breach of data security. Your data, including de-identified data may be kept for use in future research.<br /><br />
+                Your IP Addresses may be collected to prevent the same IP address from participating twice. Your platform ID (e.g., Mturk worker ID, Prolific ID, or Sona ID) will not be shared with anyone outside of the research team and will not be linked to study responses. However, any work performed on MTurk can be linked to the user’s public profile page. Thus, you may wish to restrict what information you choose to share in your public profile.<br /><br />
+                <p class = 'bold'>Participation and Withdraw</p>
+                Your participation is VOLUNTARY. You may withdraw from the experiment at any time without suffering any negative consequences.<br /><br />
+                Identification of Investigators
+                If you have any questions, feel free to contact Dr. Hongjing Lu (hongjing@ucla.edu), at the Department of Psychology, UCLA, 405 Hilgard Ave., Los Angeles, CA 90095-1563.<br /><br />
+                <p class = 'bold'>Rights of Research Subjects</p>
+                You may withdraw your consent at any time and discontinue participation without penalty. You are not waiving any legal claims, rights or remedies because of your participation in this research study.<br /><br />
+                <p class = 'bold'>UCLA Office of the Human Research Protection Program (OHRPP)</p>
+                If you have questions about your rights as a research subject, or you have concerns or suggestions and you want to talk to someone other than the researchers, you may contact the UCLA OHRPP by phone: (310) 206-2040; by email: participants@research.ucla.edu or by mail: Box 951406, Los Angeles, CA 90095-1406.
+
+            </div>
+        </div>
+    </div>
+
+    <!-- INSTRUCTIONS AESTHETIC -->
+    <div class='content-box fixed-box' id='instr-box-aesthetic'>
+        <p class='instructions' id='instr-text-aesthetic'></p>
+        <img id='instr-img' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive your credit.'></img>
+        <div id='instruction-rating-area'>
+            <div class='aesthetic-task-label-right'><p class = 'rating-labels'></p>Very much</div>
+            <div class='instr-rating-button r6'><p class='rating-labels'>6</p></div>
+            <div class='instr-rating-button r5'><p class='rating-labels'>5</p></div>
+            <div class='instr-rating-button r4'><p class='rating-labels'>4</p></div>
+            <div class='instr-rating-button r3'><p class='rating-labels'>3</p></div>
+            <div class='instr-rating-button r2'><p class='rating-labels'>2</p></div>
+            <div class='instr-rating-button r1'><p class='rating-labels'>1</p></div>
+            <div class='aesthetic-task-label-left'><p class = 'rating-labels'></p>Not at all</div>
+        </div>
+        <button class='button' id='next-button-aesthetic' onclick='aesthetic_instr.next()'>NEXT</button>
+    </div>
+
+    <!-- INSTRUCTIONS QUIZ AESTHETIC -->
+    <div class='content-box fixed-box' id='quiz-box-aesthetic'>
+        <div class='bold'>What is your job in this part?</div>
+        <label><div class='option'><input class='radio' type='radio' name='quiz' value='forgot' /><p class='option-text'>Select this option if you do not remember the instructions.</p></div></label>
+        <label><div class='option'><input class='radio' type='radio' name='quiz' value='emoSubj' /><p class='option-text'>Rate the images based on how emotionally positive they make me feel.</p></div></label>
+        <label><div class='option'><input class='radio' type='radio' name='quiz' value='emoObj' /><p class='option-text'>Rate the images based on how emotionally positive they appear.</p></div></label>
+        <label><div class='option'><input class='radio' type='radio' name='quiz' value='emoOther' /><p class='option-text'>Rate the images based on how emotionally positive they would be for most people.</p></div></label>
+        <label><div class='option'><input class='radio' type='radio' name='quiz' value='aesOther' /><p class='option-text'>Rate the images based on how visually pleasing they would be for most people.</p></div></label>
+        <label><div class='option'><input class='radio' type='radio' name='quiz' value='aesSelf' /><p class='option-text'>Rate the images based on how visually pleasing they appear.</p></div></label>
+        <button class='button' onclick='SUBMIT_INSTR_Q_AESTHETIC()'>SUBMIT</button>
+        <p class='warning' id='quiz-warning-aesthetic'></p>
+    </div>
+
+    <!-- CHIRAL TASK -->
+    <div class='content-box' id='chiral-task'>
+        <div class='progress-bar'><span id='trial-progress-chiral'>0</span>% completed</div>
+        <div class='img-box'>
+            <img id='img-left' class='test-img img-left img-selection' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive credit.'></img>
+            <img id='img-right' class='test-img img-right img-selection' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive credit.'></img>
+            <p class='chiral-caption'>Which one is the original? Click on it!</p>
+        </div>
+        <div class='buffer' alt=''>
+            <img id='buffer-img' src='media/blank.jpg' alt='' />
+        </div>
+    </div>
+
+    <!-- AESTHETIC TASK -->
+    <div class='content-box' id='aesthetic-task'>
+        <div class='progress-bar'><span id='trial-progress-aesthetic'>0</span>% completed</div>
+        <div class='img-box'>
+            <img id='img-center' src='media/blank.jpg' draggable='false' alt='Image Error: Please email yichiachen@g.ucla.edu with the message "IMG-ERROR" to receive credit.'></img>
+        </div>
+        <div class='buffer' alt=''>
+            <img id='buffer-img' src='media/blank.jpg' alt='' />
+        </div>
+        <div id='rating-area'>
+            <div class='aesthetic-task-label-right'><p class = 'rating-labels'></p>Very much</div>
+            <div class='rating-button r6' id='r6'><p class='rating-labels'>6</p></div>
+            <div class='rating-button r5' id='r5'><p class='rating-labels'>5</p></div>
+            <div class='rating-button r4' id='r4'><p class='rating-labels'>4</p></div>
+            <div class='rating-button r3' id='r3'><p class='rating-labels'>3</p></div>
+            <div class='rating-button r2' id='r2'><p class='rating-labels'>2</p></div>
+            <div class='rating-button r1' id='r1'><p class='rating-labels'>1</p></div>
+            <div class='aesthetic-task-label-left'><p class = 'rating-labels'></p>Not at all</div>
+        </div>
+    </div>
+
+    <!-- DEBRIEFING QUESTIONS -->
+    <div class='content-box' id='questions-box'>
+        <div class='question'>
+            You are almost done! Please answer these last questions:
+        </div>
+        <div class='question'>
+            <p class='bold'>Did you complete this experiment seriously throughout (without responding randomly)?</p>
+            <p class='small-dim'>You will receive credit regardless of what your answer is here. Please be honest for science! Thanks!</p>
+            <label><div class='option'><input class='radio' type='radio' name='serious' value='0' /><p class='option-text'>No, I didn't.</p></div></label>
+            <label><div class='option'><input class='radio' type='radio' name='serious' value='1' /><p class='option-text'>Yes, I did.</p></div></label>
+        </div>
+        <div class="question">
+            <p class="bold">Was the browser in the full-screen mode during all the trials?</p>
+            <p class="small-dim">You will receive credit regardless of what your answer is here. Please be honest for science! Thanks!</p>
+            <label><div class="option"><input class="radio" type="radio" name="maximized" value="0" /><p class="option-text">No, it wasn't.</p></div></label>
+            <label><div class="option"><input class="radio" type="radio" name="maximized" value="1" /><p class="option-text">Yes, it was.</p></div></label>
+        </div>
+        <div class='question'>
+            <p class='bold'>Was any part of the procedure unclear? Did you have any problems completing any of the tasks?</p>
+            <p class='small-dim'>You will receive credit regardless of what your answer is here. Please be honest for science! Thanks!</p>
+            <textarea id='problems'></textarea>
+        </div>
+        <div class='question'>
+            <p class='bold'>What is your gender?</p>
+            <label><div class='option'><input class='radio' type='radio' name='gender' value='F' /><p class='option-text'>Female</p></div></label>
+            <label><div class='option'><input class='radio' type='radio' name='gender' value='M' /><p class='option-text'>Male</p></div></label>
+            <label><div class='option'><input class='radio' type='radio' name='gender' value='O' /><p class='option-text'>Other</p></div></label>
+            <label><div class='option'><input class='radio' type='radio' name='gender' value='N' /><p class='option-text'>I would rather not say</p></div></label>
+        </div>
+        <div class='question'>
+            <p class='bold'>What is your age?</p>
+            <input type='number' id='age' min='0' max='150'/>
+        </div>
+        <button class='button' onclick='SUBMIT_DEBRIEFING_Q()'>NEXT</button>
+        <p class='warning' id='questions-warning'></p>
+    </div>
+
+    <!-- DEBRIEFING -->
+    <div class='content-box' id='debriefing-box'>
+        Now there’s one step left: Click END to get your credit! Thank you very much!<br /><br />
+        Interested in what we are testing? See below for more information.<br /><br />
+
+        <button class='button' onclick='END_EXPERIMENT()'>END</button>
+
+        <br /><br /><br />
+
+        <strong>Debriefing Sheet</strong><br /><br />
+        Thanks for participating in the experiment.
+
+        In this study, we are exploring how people can tell apart the mirrored world from the world our visual systems are immersed in. We are curious if we prefer the original world due to the extensive experiences we have, despite how similar the mirrored world can be. We are also very interested in understanding the individual differences in both the sensitivity to the orientation differences and aesthetic experiences.<br /><br />
+
+        Please don't hesitate to contact the researcher if you have any questions:<br /><br />
+
+        Yi-Chia Chen & Jeffrey Chang<br />
+        UCLA Computational Vision and Learning Laboratory<br />
+        <a href='https://ycc.vision/' target='_blank' rel='noopener noreferrer'>https://ycc.vision/</a><br />
+        yichiachen@g.ucla.edu<br /><br />
+
+        Here's some additional information about the core project this study is associated with:<br /><br />
+
+        We are studying human cognition by looking at how people differ in terms of personality, cognitive tendencies, and skills. Here are a few example scientific questions we are looking at:<br /><br />
+        Do people agree what looks pretty and what looks bad?<br />
+        How is one’s personality related to their judgement of social situations?<br />
+        Would cultural backgrounds influence memory of different objects?<br /><br />
+        If you have any questions, please feel free to contact the researcher Hongjing Lu at hongjing@ucla.edu.
+    </div>
+
+    <noscript>It seems that JavaScript is disabled in your browser. Please go to settings and enable JavaScript for this experiment.</noscript>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.3/mobile-detect.min.js'></script>
+    <script src='js/func_chiral.js'></script>
+    <script src='js/expt_chiral.js'></script>
+    <script src='js/main.js'></script>
+</body>
+</html>
